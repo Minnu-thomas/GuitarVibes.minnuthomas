@@ -1,0 +1,38 @@
+.product-thumbnail img {
+    float: left;
+    width: 30%;
+}
+
+.price {
+    color: red;
+    position: absolute;
+    bottom: 10%;
+    right: 10%;
+    font-size: 1.5vw;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+.product-thumbnail {
+    width: 40%;
+    height: 50%;
+    border: 1px double gray;
+    margin: 1%;
+    margin-left: 3%;
+    background-color: whitesmoke;
+    position: relative;
+    display: inline-block;
+    width: 40%;
+    padding: 20px;
+}
+
+.product-thumbnail:hover {
+    background-color: cornsilk;
+}
+
+footer {
+    clear: both;
+}

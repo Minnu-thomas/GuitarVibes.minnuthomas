@@ -1,0 +1,27 @@
+.product-page {
+    background-color: whitesmoke;
+}
+
+.product-page img {
+    margin: 3% 2% 5% 2%;
+    width: 28%;
+    height: 35%;
+    float: left;
+}
+
+table {
+    width: 65%;
+    border: 1px lightgray solid;
+}
+
+.product-table {
+    margin: 0 2% 3% 2%;
+}
+
+th {
+    font-weight: bolder;
+}
+
+td {
+    padding: 1% 2%;
+}
